@@ -1,0 +1,11 @@
+If you plan to use the protocol in a torrent client, you must make a url at "https://tinyurl.com"
+
+For example, "https://sometorrentsearch.eu/" is a website I'd like to search on.
+It's query for searching is "search?f=", but is really two components of page "search" and query "?f=".
+All together it looks like "https://sometorrentsearch.eu/search?f=".
+BUT, you'll need to switch out "http" or "https" for "tor-browser", and keep the search query part left off the link when making the tiny url.
+E.g. I would use "tor-browser://sometorrentsearch.eu/search" at TinyUrl.
+Once you get such a link maybe looking like "https://tinyurl.com/tor-sometorrentsearch" if you customized it.
+Now you just need to add the "?f=" part to the end, making it "https://tinyurl.com/tor-sometorrentsearch?f="
+
+"https://tinyurl.com/tor-torrentz2?f=" is a working url for searching Torrentz2 via torrent clients search engine function to open the Tor Browser if you have it installed.
