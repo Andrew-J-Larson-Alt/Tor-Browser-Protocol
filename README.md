@@ -1,5 +1,5 @@
 # tor-browser-protocol
-Allows you to open a link from one browser in the Tor Browser.
+Allows you to open a link from normal browsers in the Tor Browser.
 
 Instead of using https or http to open a link, using tor-browser will open the link in the Tor Browser from whatever browser you are currently in.
 
