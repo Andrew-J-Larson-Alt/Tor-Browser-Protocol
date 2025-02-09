@@ -1,6 +1,6 @@
 @echo off
 REM This protocol allows for redirecting tor browser links to the TOR browser from inside other browsers/web based programs.
-REM Copyright (C) 2020  Andrew Larson (andrew.j.larson18+github+alt@gmail.com)
+REM Copyright (C) 2020  Andrew Larson (github-alt@drewj.la)
 REM
 REM This program is free software: you can redistribute it and/or modify
 REM it under the terms of the GNU General Public License as published by
